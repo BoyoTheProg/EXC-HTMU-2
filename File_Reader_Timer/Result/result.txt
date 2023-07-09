@@ -1,0 +1,6 @@
+File Name: filename.csv
+Date and Time: 2023-07-10 00:09:41
+Column 1: Min: 1.0, Max: 3.0, Average: 2.00, Count: 3
+Column 2: Min: 3.0, Max: 4.0, Average: 3.33, Count: 3
+Column 3: Min: 2.0, Max: 5.0, Average: 3.67, Count: 3
+Column 4: Min: 1.0, Max: 6.0, Average: 4.00, Count: 3
